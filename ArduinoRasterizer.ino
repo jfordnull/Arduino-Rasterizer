@@ -1,7 +1,6 @@
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
-#include <math.h>
 
 #define SCREEN_WIDTH 128 // OLED width, pixels
 #define SCREEN_HEIGHT 64 // OLED height, pixels
